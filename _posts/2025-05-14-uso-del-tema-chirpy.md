@@ -20,7 +20,7 @@ Como decía, encontré que el uso de [Jekyll](https://jekyllrb.com/), me resulta
 
 # ¿Por qué usar esta tecnología?
 
-Me resultó mucho más fácil el uso de esta tecnología porque al estar estudiándola, me ofreció la confianza de solo crear el sitio a  partir de las [plantilla](http://jekyllthemes.org/), el colocarlas  en el repositorio personal y a partir de unos cuantos click's, el tener la página web lista y en línea.
+Me resultó mucho más fácil el uso de esta tecnología porque al estar estudiándola, me ofreció la confianza de solo crear el sitio a  partir de las plantilla obtenida de jekyllthemes.org, el colocarlas  en el repositorio personal y a partir de unos cuantos click's, el tener la página web lista y en línea.
 
 Buscando una plantilla que me resultara agradable, elegí la plantilla [Chripy](https://github.com/cotes2020/chirpy-starter). A partir de esta plantilla se puede crear el sitio web de uso personal. Más adelante describiré el paso a paso de cómo lo fui configurando y saltando las pequeñas dificultades que se presentaron.
 
