@@ -2,6 +2,7 @@
 title: Uso del tema Chirpy
 author: Hcalmur
 date: 2025-05-14 12:37:00 +0800
+toc: true
 categories: [ti, tech]
 tags: [programming, ruby, jekyll, theme]
 description: Uso del tema CHIRPY y mi primer post
