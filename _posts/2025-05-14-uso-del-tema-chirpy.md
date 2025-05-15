@@ -62,10 +62,10 @@ Eh encontrado algunos problemas que se han presentado, ya trabajando con el proy
 
 El uso de esta tecnología me resulta bastante fácil para personas con pocos conocimientos técnicoas acerca de la creación de sitios web, y que permite que te centres en la creación de contenido.
 
-> - Seguir el [manual de como generar tú primer post](https://chirpy.cotes.page/posts/write-a-new-post/), y como aplicar el _lenguaje de marcado_ aka **Markdown**[¹] en la creación de tu primer publicación, es **bastante sencillo**.
+> - Seguir el [manual de como generar tú primer post](https://chirpy.cotes.page/posts/write-a-new-post/), y como aplicar el _lenguaje de marcado_ aka **Markdown**[^¹] en la creación de tu primer publicación, es **bastante sencillo**.
 > - La etapa de aprendizaje sobre el uso de toda la herramienta, es considerablemente sencilla.
 > - La instalación es completamente transparente.
 > - Tal vez si no cuentas con algunos conocimientos sobre el uso de de Github y de la línea de comando puede parecer algo complicado, pero no es así con un curso básico se puede solventar ese tema, al final solo se necesitan unas cuantas línea de comando para usar y publicar tu sitio web **estático**.
 
 ---
-[¹] Aunque en realidad Markdown también se considera un lenguaje que tiene la finalidad de permitir crear contenido de una manera sencilla de escribir, y que en todo momento mantenga un diseño legible, así que para simplificar puedes considerar Markdown como un método de escritura.
+[^¹]: Aunque en realidad Markdown también se considera un lenguaje que tiene la finalidad de permitir crear contenido de una manera sencilla de escribir, y que en todo momento mantenga un diseño legible, así que para simplificar puedes considerar Markdown como un método de escritura.
