@@ -28,9 +28,11 @@ Buscando una plantilla que me resultara agradable, elegí la plantilla [Chripy](
 
 El primer paso es dirigirnos a la dirección: [chirpy-starter](https://github.com/cotes2020/chirpy-starter), ahí elegiremos la opción  `Usar como plantilla`, una vez que eligamos esa opción nos dirigirá a una nueva página la cual creara el fork de la página hacía tu cuenta, de lo cuál tu debes de poner el nombre que quieras, creando el nuevo sitio en tu cuenta de Github.
 
-[paso 1](../assets/01 - Setup-inicial-chirpy.png)
+![Paso 1](/assets/img/images/01 - Setup-inicial-chirpy.png){: width="700" height="400" }
 
+Una vez concluido el fork del sitio chirpy-starter, el siguiente paso es clonar en tu equipo local para comezar a trabajar, con tu información, que al final de eso se trata el sitio de que solo te pongas a plasmar tus ideas y proyectos sin preocuparte sobre cuestiones técnicas del sitio es solo instalar levantar el servicio de manera local para ver como va tu sitio y tus post y publicarlos, asi de sencillo.
 
+![Paso 2](/assets/img/images/02 - cli.webpage.hcalmur.png)
 
 
 
