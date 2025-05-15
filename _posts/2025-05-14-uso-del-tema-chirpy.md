@@ -28,7 +28,7 @@ Buscando una plantilla que me resultara agradable, elegí la plantilla [Chripy](
 
 El primer paso es dirigirnos a la dirección: [chirpy-starter](https://github.com/cotes2020/chirpy-starter), ahí elegiremos la opción  `Usar como plantilla`, una vez que eligamos esa opción nos dirigirá a una nueva página la cual creara el fork de la página hacía tu cuenta, de lo cuál tu debes de poner el nombre que quieras, creando el nuevo sitio en tu cuenta de Github.
 
-[paso 1](../static/01 - Setup-inicial-chirpy.png)
+[paso 1](../assets/01 - Setup-inicial-chirpy.png)
 
 
 
