@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![photo|right|150](assets/img/images/07-perfil.png)
+![photo|150](assets/img/images/07-perfil.png)
 
 # Horacio C. M.
 ---
@@ -13,14 +13,14 @@ order: 4
 
 Profesional con *20 años* de probada experiencia en áreas de ***TI***, con capacidad de análisis, autodidacta, habilidad para resolver problemas complejos y trabajar en equipo. Busco un puesto estable en el cual desarrollarme laboralmente, en empleos anteriores siempre he destacado por mi buena productividad y mi capacidad de aprender rápidamente, desarrollando y participando en múltiples proyectos, desde la programación hasta el área de ciberseguridad usando nuevas tecnologías.
 
-✉️ [contacto](mailto:hcalmur@icloud.com)
-📍Ciudad de México, Alcaldía Álvaro Obregón
-⚮ Separado
-🎂 Enero
+✉️ [contacto](mailto:hcalmur@icloud.com)  
+📍Ciudad de México, Alcaldía Álvaro Obregón  
+⚮ Separado  
+🎂 Enero  
 
 ## Formación
 
-![UDF|100](assets/img/images/06-UDF-round-corner.png)
+![UDF|100](assets/img/images/06-UDF-round-corner.png)  
 **<u>*Universidad del Distrito federal, Ciudad de México*</u>**
 <span style="background:#fff88f"><font color="#0f243e">**Licenciatura en Informática Administrativa**</font></span>
 
