@@ -4,9 +4,10 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![photo|150](assets/img/images/07-perfil.png)
-
 # Horacio C. M.
+
+![photo|100](assets/img/images/07-perfil.png)  
+
 ---
 
 ## Resumen profesional
@@ -59,27 +60,16 @@ Profesional con *20 años* de probada experiencia en áreas de ***TI***, con cap
 
 ---
 
-
-
-
 Actualmente realizando cursos en plataformas que son de mi interés para mi desarrollo profesional:
 
 1. [Cisco Network Academy](https://www.netacad.com/es/)
 2. [Tryhackme](https://tryhackme.com/p/hcalmur)
 3. [Academy Hack the Box](https://academy.hackthebox.com/)
 4. [IBM Skill build](https://www.credly.com/org/ibm-skillsbuild)
+5. Bringtalk
+6. Lacnic
+7. Infotec y la estrategia nacional de segurida
 
-
-
-MEJOREDU - Cursos especializados para el desempeño en el gobierno.
-Bringtalk
-Lacnic
-Infotec y la estrategía nacional de seguridad
-
-Todas mis insignias obtenidas las tengo almacenadas en [Insignias en Credly](https://www.credly.com/users/horacio-calzada)
+>[!Success] Insignias obtenidas [Insignias en Credly](https://www.credly.com/users/horacio-calzada)
 
 ---
-
-
- Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
