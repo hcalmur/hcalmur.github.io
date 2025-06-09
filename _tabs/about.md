@@ -4,9 +4,10 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+
 # Horacio C. M.
 
-![perfil](assets/img/images/07-perfil.png) 
+![perfil|100](assets/img/images/07-perfil.png)
 
 ---
 
