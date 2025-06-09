@@ -6,7 +6,7 @@ order: 4
 
 # Horacio C. M.
 
-![perfil|100](assets/img/images/07-perfil.png) 
+![perfil](assets/img/images/07-perfil.png) 
 
 ---
 
