@@ -22,7 +22,8 @@ Profesional con *20 años* de probada experiencia en áreas de ***TI***, con cap
 
 ## Formación
 
-![UDF|100](assets/img/images/06-UDF-round-corner.png)  
+![UDF|70](assets/img/images/06-UDF-round-corner.png)   
+
 **<u>*Universidad del Distrito federal, Ciudad de México*</u>**. 
 <span style="background:#fff88f"><font color="#0f243e">**Licenciatura en Informática Administrativa**</font></span>
 
@@ -56,7 +57,8 @@ Profesional con *20 años* de probada experiencia en áreas de ***TI***, con cap
 
 ## *IDIOMAS*
 
-🇲🇽 Español: Idioma nativo
+🇲🇽 Español: Idioma nativo. 
+
 🇺🇸 Inglés: Intermedio
 
 ---
@@ -71,6 +73,8 @@ Actualmente realizando cursos en plataformas que son de mi interés para mi desa
 6. Lacnic
 7. Infotec y la estrategia nacional de segurida
 
->[!Success] Insignias obtenidas [Insignias en Credly](https://www.credly.com/users/horacio-calzada)
+# Insignias
+
+> Insignias obtenidas [Insignias en Credly](https://www.credly.com/users/horacio-calzada)
 
 ---
