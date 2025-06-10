@@ -22,7 +22,7 @@ Profesional con *20 años* de probada experiencia en áreas de ***TI***, con cap
 
 ## Formación
 
-![UDF|70|70](assets/img/images/06-UDF-round-corner.png)   
+![UDF](assets/img/images/06-UDF-round-corner.png)   
 
 **<u>*Universidad del Distrito federal, Ciudad de México*</u>** 
 
