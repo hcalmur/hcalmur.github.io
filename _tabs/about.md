@@ -163,5 +163,6 @@ Realizando cursos en plataformas para mi desarrollo profesional:
 # Curriculum Vitae
 ![CV](assets/img/images/00-QR-CV.png)
 
-![CV](https://drive.google.com/file/d/19nKUG39B7j-ikwzHcELyc5nrM-vTCB6G/view?usp=drivesdk)
+![CV](https://github.com/hcalmur/hcalmur.github.io/blob/main/assets/img/images/CV-HCM-2.pdf)
+
 --
