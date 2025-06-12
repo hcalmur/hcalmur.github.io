@@ -163,4 +163,5 @@ Realizando cursos en plataformas para mi desarrollo profesional:
 # Curriculum Vitae
 ![CV](assets/img/images/00-QR-CV.png)
 
+![CV](https://tinyurl.com/4n2ty336)
 ---
