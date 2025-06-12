@@ -164,4 +164,4 @@ Realizando cursos en plataformas para mi desarrollo profesional:
 ![CV](assets/img/images/00-QR-CV.png)
 
 ![CV](https://drive.google.com/file/d/19nKUG39B7j-ikwzHcELyc5nrM-vTCB6G/view?usp=drivesdk)
----
+--
