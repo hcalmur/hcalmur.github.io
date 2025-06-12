@@ -82,6 +82,6 @@ Actualmente realizando cursos en plataformas que son de mi interés para mi desa
 
 
 # Curriculum Vitae
-![CV](assets/img/images/00-QR-CV.png | width=100)
+![CV](assets/img/images/00-QR-CV.png)
 
 ---
