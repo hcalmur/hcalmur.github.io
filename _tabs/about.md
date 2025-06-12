@@ -164,7 +164,7 @@ Realizando cursos en plataformas para mi desarrollo profesional:
 ![CV](assets/img/images/00-QR-CV.png)
 
 
-{{ site.url }}/asets/img/images/CV-HCM-2.pdf
+{{ site.url }}/assets/img/images/CV-HCM-2.pdf
 
 
 
