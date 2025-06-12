@@ -163,6 +163,5 @@ Realizando cursos en plataformas para mi desarrollo profesional:
 # Curriculum Vitae
 ![CV](assets/img/images/00-QR-CV.png)
 
-![CV-PDF](assets/img/images/CV-HCM-2.pdf)
-
+<a href="assets/img/images/CV-HCM-2.pdf">CV-PDF</a>
 --
