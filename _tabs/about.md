@@ -49,12 +49,14 @@ Profesional con *20 años* de probada experiencia en áreas de ***TI***, con cap
 > - Implementación de controles de usuario en el Firewall USG6635E HUAWEI.
 > - Generación de credenciales para acceso seguro mediante OpenVPN.
 > -Desarrollo y puesta en marcha de servidores Linux adaptados a las solicitudes internas de MEJOREDU.
+>  - Desarrollos WEB en distintos proyectos
 
 ## <u>CONAFE</u>
 
 >[!tip]
 > - Optimización del procesamiento de bases de datos para programas compensatorios.
 > - Producción de reportes detallados por institución educativa y región mediante bases de datos.
+> - Desarrollo de escritorio para consulta de información por institución educativa
 
 ## *IDIOMAS*
 
@@ -77,5 +79,9 @@ Actualmente realizando cursos en plataformas que son de mi interés para mi desa
 # Insignias
 
 > Insignias obtenidas [Insignias en Credly](https://www.credly.com/users/horacio-calzada)
+
+
+# Curriculum Vitae
+![CV|200](assets/img/images/00-QR-CV.png)
 
 ---
