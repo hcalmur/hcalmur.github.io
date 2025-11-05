@@ -158,12 +158,3 @@ Realizando cursos en plataformas para mi desarrollo profesional:
 # Insignias
 
 > Insignias obtenidas [Insignias en Credly](https://www.credly.com/users/horacio-calzada)
-
----
-# Curriculum Vitae
-![CV](assets/img/images/00-QR-CV.png)
-
-![cv](assets/img/images/CV-HCM-2.pdf)
-
-
-
